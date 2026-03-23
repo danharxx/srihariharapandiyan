@@ -1,0 +1,21 @@
+packages:
+  "framer-motion": "For complex cinematic animations, page transitions, and loading screens"
+  "react-type-animation": "For the animated typing effect in the hero section"
+  "aos": "For smooth scroll reveal animations"
+  "@types/aos": "TypeScript definitions for AOS"
+  "clsx": "For constructing dynamic class names"
+  "tailwind-merge": "For merging tailwind classes safely"
+  "react-hook-form": "For robust contact form state and validation"
+  "@hookform/resolvers": "For integrating Zod with react-hook-form"
+
+images:
+  - path: "artifacts/portfolio/public/images/hero-bg.png"
+    description: "Futuristic dark abstract background with glowing electric blue and deep purple geometric shapes, glassmorphism style, cinematic lighting, 8k resolution"
+    aspect_ratio: "16:9"
+  - path: "artifacts/portfolio/public/images/avatar.png"
+    description: "Stylized 3D futuristic professional developer avatar, neon blue and purple rim lighting, dark background, clean and sleek, highly detailed"
+    aspect_ratio: "1:1"
+
+notes:
+  - This is a complete single-page portfolio with static mock data. No backend is needed.
+  - Form submissions are simulated on the client side with mock delays.
